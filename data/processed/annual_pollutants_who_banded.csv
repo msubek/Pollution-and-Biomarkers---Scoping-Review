@@ -1,0 +1,84 @@
+paper_id,avg_period,pollutant,pollutant_raw,setting,unit,summary_type,value,variability_type,variability_value,unit_norm,summary_type_norm,who_band
+Jang_2024_1053,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,18.2,SD,2.9,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Craver_ 2024_8237,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,8.9,NA,NA,μg/m³,mean,Low (≤10 — meets AQG/IT-4)
+Aretz_2024_4320,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,14.84,NA,NA,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Tian_2024_6498,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,10.65,SD,1.95,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Mercoeur_2024_9137,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,37.08,SD,16.94,μg/m³,mean,Moderate (20.1–40 — meets IT-2/IT-1)
+Lubner_2024_6006,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,8.13,NA,NA,μg/m³,mean,Low (≤10 — meets AQG/IT-4)
+Abramson_2020_0549,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,17.5,SD,1.45,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Darras-Hostens_2024_2006,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,26.05,NA,NA,μg/m³,mean,Moderate (20.1–40 — meets IT-2/IT-1)
+Macchi_2019_3188,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,40.12,NA,4.17,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Sarkar_2019_2141,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,9.91,SD,1.03,μg/m³,mean,Low (≤10 — meets AQG/IT-4)
+Havet_2019_5320,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,27.9,SD,13.9,μg/m³,mean,Moderate (20.1–40 — meets IT-2/IT-1)
+Yang_2019_0318,Annual average,PM1,PM1,Outdoor,μg/m³,Mean,66,SD,10.7,μg/m³,mean,No WHO annual guideline available
+Cho_2023_e159,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,50.8,SD,4.9,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Kim_2022_4164-y,Annual average,PM10,PM10,Not specified,μg/m³,Mean,50.6,SD,49,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Zheng_2022_888-2,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,37.2,SD,4.8,μg/m³,mean,High (>35 — exceeds all interim targets)
+Aretz_2021_1533,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,14.92,SD,1.01,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Lee_2019_635z,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,45.1,NA,NA,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Xu_2021_17205,Annual average,PM1,PM1,Outdoor,μg/m³,Mean,28.62,SD,6.7,μg/m³,mean,No WHO annual guideline available
+Steppuhn_2019_1774,Annual average,PM10,pm10,Not specified,μg/m³,Mean,18.54,NA,NA,μg/m³,mean,Low (≤20 — meets AQG/IT-4)
+Hu_2023_4382,Annual average,PM1,PM1,Outdoor,μg/m³,Mean,36,IQR,18.8,μg/m³,mean,No WHO annual guideline available
+Fong_2023_0010,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,5,NA,NA,μg/m³,mean,Low (≤10 — meets AQG/IT-4)
+Kalia_2023_0122,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,12.9,SD,2.41,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Arku_2020_4197,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,36.2,SD,25.9,μg/m³,mean,High (>35 — exceeds all interim targets)
+Jen Bai_2021_0085,Annual average,PM10,PM10,Not specified,μg/m³,Mean,43.78,SD,NA,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Pekince_2021_5133,Annual average,PM10,PM 10,Not specified,μg/m³,Mean,220,NA,NA,μg/m³,mean,High (>70 — exceeds all interim targets)
+VanderHoorn_2021_8931,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,4.5,SD,1.6,μg/m³,mean,Low (≤10 — meets AQG/IT-4)
+Gamgaram_2021_1547,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,20.17,SD,3.9,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Alemany_2021_6864,Annual average,NO2,NO2,Not specified,μg/m³,Mean,57.6,SD,10.9,μg/m³,mean,High (>40 — exceeds all interim targets)
+Li_2019_2153,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,197.56,SD,94.22,μg/m³,mean,High (>70 — exceeds all interim targets)
+Montresor-Lopez_2021_1075,Annual average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,13.4,SD,5.2,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Kim_2022_1585,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,48.34,SD,4.25,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Chen_2019_07-5,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,26.02,IQR,10,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Guo_2020_5915,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,26.1,SD,7.3,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Zhang_2023_1321,Annual average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,10.9,SD,2,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Bo_2019_3212,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,26.63,SD,7.69,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Zeng_2022_8328,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,24.7,NA,NA,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Honda_2022_28-5,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,10.32,SD,3.15,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Tian_2024_6498,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,16.76,SD,2.76,μg/m³,mean,Low (≤20 — meets AQG/IT-4)
+Abramson_2020_0549,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,27.2,SD,6.88,μg/m³,mean,Moderate (20.1–40 — meets IT-2/IT-1)
+Darras-Hostens_2024_2006,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,19.96,NA,NA,μg/m³,mean,Low (≤20 — meets AQG/IT-3)
+Yang_2019_0318,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,82,SD,14.8,μg/m³,mean,High (>35 — exceeds all interim targets)
+Lee_2019_6009,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,9.3,SD,1.9,μg/m³,mean,Low (≤10 — meets AQG/IT-4)
+Cho_2023_e159,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,26,SD,0.7,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Aretz_2021_1533,Annual average,Black Carbon,Black carbon,Outdoor,μg/m³,Mean,1.22,SD,0.22,μg/m³,mean,No WHO annual guideline available
+Xu_2021_17205,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,42.79,SD,16,μg/m³,mean,High (>35 — exceeds all interim targets)
+Hu_2023_4382,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,48.2,IQR,31.9,μg/m³,mean,High (>35 — exceeds all interim targets)
+Fong_2023_0010,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,8.15,NA,NA,μg/m³,mean,Low (≤10 — meets AQG/IT-4)
+Kalia_2023_0122,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,21,SD,7.73,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Pekince_2021_5133,Annual average,SO2,SO2,Not specified,μg/m³,Mean,340,NA,NA,μg/m³,mean,No WHO annual guideline available
+Gamgaram_2021_1547,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,10.83,SD,2.08,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Alemany_2021_6864,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,17.3,SD,2.2,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Li_2019_2153,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,88.71,SD,44.27,μg/m³,mean,High (>35 — exceeds all interim targets)
+Kim_2022_1585,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,25.2,SD,2.69,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Tian_2024_6498,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,20.78,SD,6.58,μg/m³,mean,Moderate (20.1–40 — meets IT-2/IT-1)
+Darras-Hostens_2024_2006,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,27.02,NA,NA,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Havet_2019_5320,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,25,SD,4.07,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Zhao_2020_5472,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,11.7,SD,2.9,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Yang_2019_0318,Annual average,PM10,PM 10,Outdoor,μg/m³,Mean,123.1,SD,14.6,μg/m³,mean,High (>70 — exceeds all interim targets)
+Xu_2021_17205,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,73.36,SD,23.88,μg/m³,mean,High (>70 — exceeds all interim targets)
+Hu_2023_4382,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,93.5,IQR,46.4,μg/m³,mean,High (>70 — exceeds all interim targets)
+Jen Bai_2021_0085,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,26.28,SD,NA,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Kogevinas_2021_9726,Annual average,Black Carbon,BC,Not specified,μg/m³,Mean,1.82,SD,0.39,μg/m³,mean,No WHO annual guideline available
+Alemany_2021_6864,Annual average,PM10,PM10,Not specified,μg/m³,Mean,37.9,SD,4.4,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Li_2019_2153,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,57.16,SD,19.92,μg/m³,mean,High (>40 — exceeds all interim targets)
+Abramson_2020_0549,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,26.9,SD,1.93,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Darras-Hostens_2024_2006,Annual average,PM10,PM10,Outdoor,μg/m³,Mean,26.53,NA,NA,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Havet_2019_5320,Annual average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,15,SD,2.04,μg/m³,mean,Moderate (10.1–35 — meets IT-3/IT-2/IT-1)
+Yang_2019_0318,Annual average,SO2,SO2,Outdoor,μg/m³,Mean,54.4,SD,14.3,μg/m³,mean,No WHO annual guideline available
+Kim_2022_4164-y,Annual average,PM10,PM10,Not specified,μg/m³,Mean,50.2,SD,49,μg/m³,mean,Moderate (20.1–70 — meets IT-3/IT-2/IT-1)
+Hu_2023_4382,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,29.1,IQR,19,μg/m³,mean,Moderate (20.1–40 — meets IT-2/IT-1)
+Kogevinas_2021_9726,Annual average,O3,O3,Not specified,μg/m³,Mean,65,SD,6.95,μg/m³,mean,No WHO annual guideline available
+Li_2019_2153,Annual average,SO2,SO2,Outdoor,μg/m³,Mean,39.52,SD,29.26,μg/m³,mean,No WHO annual guideline available
+Havet_2019_5320,Annual average,O3,O3,Outdoor,μg/m³,Mean,43.9,SD,4.62,μg/m³,mean,No WHO annual guideline available
+Yang_2019_0318,Annual average,NO2,NO2,Outdoor,μg/m³,Mean,35.3,SD,5.5,μg/m³,mean,Moderate (20.1–40 — meets IT-2/IT-1)
+Hu_2023_4382,Annual average,O3,O3,Outdoor,μg/m³,Mean,90.1,IQR,6.2,μg/m³,mean,No WHO annual guideline available
+Li_2019_2153,Annual average,O3,O3,Outdoor,μg/m³,Mean,105.26,SD,51.62,μg/m³,mean,No WHO annual guideline available
+Yang_2019_0318,Annual average,O3,O3,Outdoor,μg/m³,Mean,49.4,SD,14.1,μg/m³,mean,No WHO annual guideline available
+Li_2019_2153,Annual average,PM10,PM10,Not specified,μg/m³,Mean,87.82,SD,42.22,μg/m³,mean,High (>70 — exceeds all interim targets)
+Abramson_2020_0549,Annual average,O3,O3,Outdoor,μg/m³,Mean,60,SD,2.99,μg/m³,mean,No WHO annual guideline available
+Li_2019_2153,Annual average,PM2.5,PM2.5,Not specified,μg/m³,Mean,51.36,SD,24.84,μg/m³,mean,High (>35 — exceeds all interim targets)
+Li_2019_2153,Annual average,NO2,NO2,Not specified,μg/m³,Mean,16.69,SD,8.5,μg/m³,mean,Low (≤20 — meets AQG/IT-3)
+Li_2019_2153,Annual average,SO2,SO2,Not specified,μg/m³,Mean,37.73,SD,14.69,μg/m³,mean,No WHO annual guideline available
+Li_2019_2153,Annual average,O3,O3,Not specified,μg/m³,Mean,134.34,SD,52.97,μg/m³,mean,No WHO annual guideline available

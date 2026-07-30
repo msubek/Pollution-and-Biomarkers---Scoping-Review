@@ -1,0 +1,182 @@
+paper_id,avg_period,pollutant,pollutant_raw,setting,unit,summary_type,value,variability_type,variability_value,unit_norm,summary_type_norm,value_ugm3,who_band
+Zhao_2024_3435,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,54.8,SD,23.5,μg/m³,mean,54.8,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zhang_2024_1897,Daily average,Black Carbon,BC,Indoor,μg/m³,Mean,0.61,SD,0.25,μg/m³,mean,0.61,No WHO 24-hr guideline available
+Li_2024_2688,Daily average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,65.2,SD,6.8,μg/m³,mean,65.2,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Peng_2023_5803,Daily average,O3,O₃,Outdoor,μg/m³,Mean,96.63,SD,5.6,μg/m³,mean,96.63,No WHO 24-hr guideline available
+Zu_2024_0104,Daily average,PM1,PM1 (First trimester),Outdoor,μg/m³,Mean,33.52,SD,8.62,μg/m³,mean,33.52,No WHO 24-hr guideline available
+Hwang_2020_6239,Daily average,PM2.5,PM 2.5,Not specified,μg/m³,Mean,32.1,SD,2.8,μg/m³,mean,32.1,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Vrijens_2020_5156,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,13.43,SD,2.55,μg/m³,mean,13.43,Low (≤25 — meets AQG/IT-4)
+Li_2023_7518,Daily average,PM1,PM1,Outdoor,μg/m³,Mean,30.4,SD,11.3,μg/m³,mean,30.4,No WHO 24-hr guideline available
+Raqib_2023_8137,Daily average,PM2.5,"PM2.5 (baseline, pre-intervention)",Not specified,μg/m³,Mean,158.9,SD,73.7,μg/m³,mean,158.9,High (>75 — exceeds all interim targets)
+Chi_2019_2521,Daily average,PM2.5,"PM2.5,in",Indoor,μg/m³,Mean,76.5,IQR,66.1,μg/m³,mean,76.5,High (>75 — exceeds all interim targets)
+Ye_2020_4816,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,53.9,SD,30.6,μg/m³,mean,53.9,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Yu_2023_9906,Daily average,PM2.5,"PM2.5 ,low exposure group",Outdoor,μg/m³,Mean,19.02,SD,1.02,μg/m³,mean,19.02,Low (≤25 — meets AQG/IT-4)
+Kogevinas_2023_1989,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,16.4,SD,1.4,μg/m³,mean,16.4,Low (≤25 — meets AQG/IT-4)
+Shaffer_2019_0563,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,8.1,SD,4.6,μg/m³,mean,8.1,Low (≤25 — meets AQG/IT-4)
+Wei_2023_4322,Daily average,PM2.5,PM2.5 lag0,Outdoor,μg/m³,Mean,35.19,SD 27.32,NA,μg/m³,mean,35.19,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Poniedziałek_2023_8962,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,24.3,SD,11.1,μg/m³,mean,24.3,Low (≤50 — meets AQG/IT-4)
+Wu_2021_5619,Daily average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,38.87,SD,19.56,μg/m³,mean,38.87,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Areal_2023_6827,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,11.09,SD,6.58,μg/m³,mean,11.09,Low (≤25 — meets AQG/IT-4)
+Huang_2021_4400,Daily average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,32.7,SD,15.9,μg/m³,mean,32.7,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zhang_2021_1191,Daily average,PM2.5,PM 2.5,Indoor,μg/m³,Mean,66.23,NA,NA,μg/m³,mean,66.23,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Wang_2022_c438,Daily average,PM1,PM1,Not specified,μg/m³,Mean,27.33,SD,6.29,μg/m³,mean,27.33,No WHO 24-hr guideline available
+Mu_2022,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,173.18,SD,55.22,μg/m³,mean,173.18,High (>75 — exceeds all interim targets)
+Zhang_2021_1637,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,130.06,SD,87.69,μg/m³,mean,130.06,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Huang_2021_6605,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,46.83,SD,21.03,μg/m³,mean,46.83,Low (≤50 — meets AQG/IT-4)
+Zhang_2024_2548,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,52.84,SD,22.7,μg/m³,mean,52.84,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Tang_2021_650z,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,52.32,SD,32.93,μg/m³,mean,52.32,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Riggs_2021_6890,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,14.1,SD,5.1,μg/m³,mean,14.1,Low (≤25 — meets AQG/IT-4)
+Yang_2021_1085,Daily average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,39.93,SD,7.73,μg/m³,mean,39.93,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Hautekiet_2021_6332,Daily average,PM2.5,"PM2.5 (recent, week)",Outdoor,μg/m³,Mean,16.6,IQR,NA,μg/m³,mean,16.6,Low (≤25 — meets AQG/IT-4)
+Yue Guo_2021_9063,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,72.7,SD,35.1,μg/m³,mean,72.7,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Chen_2021_6329,Daily average,PM1,PM1.0(CRD group),Not specified,μg/m³,Mean,25.6,SD,NA,μg/m³,mean,25.6,No WHO 24-hr guideline available
+Xu_2019_3948,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,91.8,NA,NA,μg/m³,mean,91.8,High (>75 — exceeds all interim targets)
+Zhang_2019_2061,Daily average,PM2.5,PM2.5 (Guiyu),Outdoor,μg/m³,Mean,39.06,NA,NA,μg/m³,mean,39.06,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Yao_2021_5790,Daily average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,55.1,SD,40.7,μg/m³,mean,55.1,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Duan_2023_9685,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,62,SD,48.1,μg/m³,mean,62,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Lee_2020_205-x,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,20.4,SD,51.9,μg/m³,mean,20.4,Low (≤25 — meets AQG/IT-4)
+La Marca_2020_a214,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,27.2,SD,4.3,μg/m³,mean,27.2,Low (≤50 — meets AQG/IT-4)
+Zhou_2019_.039,Daily average,PM10,PM10 (entire pregnancy),Outdoor,μg/m³,Mean,106.74,SD,5.49,μg/m³,mean,106.74,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhang_2019_8687,Daily average,NO2,NO2 (before games),Outdoor,μg/m³,Mean,48.3,SD,30.5,μg/m³,mean,48.3,Moderate (25.1–120 — meets IT-1)
+Wyatt_2022_1891,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,9.15,SD,4.9,μg/m³,mean,9.15,Low (≤25 — meets AQG/IT-4)
+Rzymski_2022_9469,Daily average,PM10,PM10 (24hr),Outdoor,μg/m³,Mean,25.7,SD,11,μg/m³,mean,25.7,Low (≤50 — meets AQG/IT-4)
+Zhao_2024_3435,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,39.7,SD,2.12,μg/m³,mean,39.7,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zhang_2024_1897,Daily average,Black Carbon,BC,Not specified,μg/m³,Mean,0.36,SD,0.2,μg/m³,mean,0.36,No WHO 24-hr guideline available
+Li_2024_2688,Daily average,SO2,SO2,Outdoor,μg/m³,Mean,121.6,SD,18.1,μg/m³,mean,121.6,Moderate (40.1–125 — meets IT-1)
+Peng_2023_5803,Daily average,O3,O₃,Outdoor,μg/m³,Mean,48.2,SD,40,μg/m³,mean,48.2,No WHO 24-hr guideline available
+Zu_2024_0104,Daily average,PM2.5,PM2.5 (First trimester),Outdoor,μg/m³,Mean,59.72,SD,17.6,μg/m³,mean,59.72,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Hwang_2020_6239,Daily average,PM10,PM 10,Not specified,μg/m³,Mean,42.1,SD,3.6,μg/m³,mean,42.1,Low (≤50 — meets AQG/IT-4)
+Vrijens_2020_5156,Daily average,Black Carbon,Black carbon,Outdoor,μg/m³,Mean,1.29,SD,0.31,μg/m³,mean,1.29,No WHO 24-hr guideline available
+Li_2023_7518,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,38.7,SD,12.4,μg/m³,mean,38.7,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Raqib_2023_8137,Daily average,PM2.5,PM2.5 (post-intervention),Not specified,μg/m³,Mean,85.6,SD,57.3,μg/m³,mean,85.6,High (>75 — exceeds all interim targets)
+Chi_2019_2521,Daily average,PM2.5,"PM2.5,is",Indoor,μg/m³,Mean,31.6,IQR,27.4,μg/m³,mean,31.6,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Ye_2020_4816,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,80.6,SD,41,μg/m³,mean,80.6,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Yao_2022_9822,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,74.7,SD,46,μg/m³,mean,74.7,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Yu_2023_9906,Daily average,PM2.5,"PM2.5,high exposure group",Outdoor,μg/m³,Mean,106,SD,15.29,μg/m³,mean,106,High (>75 — exceeds all interim targets)
+Kogevinas_2023_1989,Daily average,Black Carbon,Black Carbon,Outdoor,μg/m³,Mean,1.8,SD,0.4,μg/m³,mean,1.8,No WHO 24-hr guideline available
+Wei_2023_4322,Daily average,PM2.5,PM2.5 lag0–7,Outdoor,μg/m³,Mean,34.73,SD 20.93,NA,μg/m³,mean,34.73,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Poniedziałek_2023_8962,Daily average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,17.6,SD,7.5,μg/m³,mean,17.6,Low (≤25 — meets AQG/IT-4)
+Wu_2021_5619,Daily average,Organic Carbon,Organic carbon,Outdoor,μg/m³,Mean,6.4,SD,1.91,μg/m³,mean,6.4,No WHO 24-hr guideline available
+Areal_2023_6827,Daily average,NO2,NO2,Outdoor,μg/m³,Mean,13.17,SD,8.39,μg/m³,mean,13.17,Low (≤25 — meets AQG)
+Huang_2021_4400,Daily average,PM10,PM 10,Outdoor,μg/m³,Mean,50.3,SD,26.3,μg/m³,mean,50.3,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhang_2021_1191,Daily average,PM2.5,PM 2.5 ( indoor heating season),Indoor,μg/m³,Mean,91.94,NA,NA,μg/m³,mean,91.94,High (>75 — exceeds all interim targets)
+Wang_2022_c438,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,40.74,SD,14.04,μg/m³,mean,40.74,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zheng_2023_1909,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,10.44,SD,2.3,μg/m³,mean,10.44,Low (≤25 — meets AQG/IT-4)
+Zhang_2021_1637,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,70.71,SD,56.77,μg/m³,mean,70.71,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Huang_2021_6605,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,27.96,SD,10.77,μg/m³,mean,27.96,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zhang_2024_2548,Daily average,Sulfate (SO4 2-),SO₄²⁻,Outdoor,μg/m³,Mean,10.01,SD,3.94,μg/m³,mean,10.01,No WHO 24-hr guideline available
+Tang_2021_650z,Daily average,PM10,PM10,Not specified,μg/m³,Mean,58.36,SD,29.36,μg/m³,mean,58.36,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Riggs_2021_6890,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,23,SD,11,μg/m³,mean,23,Low (≤50 — meets AQG/IT-4)
+Yang_2021_1085,Daily average,PM10,PM 10,Outdoor,μg/m³,Mean,66.84,SD,10.55,μg/m³,mean,66.84,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Hautekiet_2021_6332,Daily average,Black Carbon,"BC (recent, week)",Outdoor,μg/m³,Mean,1.6,IQR,NA,μg/m³,mean,1.6,No WHO 24-hr guideline available
+Yue Guo_2021_9063,Daily average,PM1,PM1.0,Not specified,μg/m³,Mean,68.8,SD,33.6,μg/m³,mean,68.8,No WHO 24-hr guideline available
+Chen_2021_6329,Daily average,PM2.5,PM2.5(CRD group),Not specified,μg/m³,Mean,43.9,SD,NA,μg/m³,mean,43.9,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zhang_2019_2061,Daily average,PM2.5,PM2.5 (Haojiang),Outdoor,μg/m³,Mean,26.68,NA,NA,μg/m³,mean,26.68,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+La Marca_2020_a214,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,19.3,SD,3.6,μg/m³,mean,19.3,Low (≤25 — meets AQG/IT-4)
+Carandina_2024_9783,Daily average,NO2,NO2,Indoor,μg/m³,Mean,16.7,SD,3.6,μg/m³,mean,16.7,Low (≤25 — meets AQG)
+Zhou_2019_.039,Daily average,NO2,NO2 (entire pregnancy),Outdoor,μg/m³,Mean,44.19,SD,2.77,μg/m³,mean,44.19,Moderate (25.1–120 — meets IT-1)
+Zhang_2019_8687,Daily average,NO2,NO2 (during games),Outdoor,μg/m³,Mean,42.6,SD,14.3,μg/m³,mean,42.6,Moderate (25.1–120 — meets IT-1)
+Rzymski_2022_9469,Daily average,PM2.5,PM2.5 (24hr),Outdoor,μg/m³,Mean,17.5,SD,9.1,μg/m³,mean,17.5,Low (≤25 — meets AQG/IT-4)
+Zhao_2024_3435,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,91.8,SD,35.1,μg/m³,mean,91.8,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhang_2024_1897,Daily average,Black Carbon,BC,Not specified,μg/m³,Mean,0.25,SD,0.26,μg/m³,mean,0.25,No WHO 24-hr guideline available
+Li_2024_2688,Daily average,NO2,NO2,Outdoor,μg/m³,Mean,73.1,SD,6.8,μg/m³,mean,73.1,Moderate (25.1–120 — meets IT-1)
+Peng_2023_5803,Daily average,O3,O₃,Indoor,μg/m³,Mean,16,SD,14.7,μg/m³,mean,16,No WHO 24-hr guideline available
+Zu_2024_0104,Daily average,PM10,PM10 (First trimester),Outdoor,μg/m³,Mean,92.66,SD,18.27,μg/m³,mean,92.66,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Vrijens_2020_5156,Daily average,NO2,NO2,Outdoor,μg/m³,Mean,17.98,SD,4.57,μg/m³,mean,17.98,Low (≤25 — meets AQG)
+Li_2023_7518,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,65.2,SD,16.2,μg/m³,mean,65.2,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Romero-Gutierrez_2024_7505,Daily average,PM2.5,PM2.5,Indoor,μg/m³,Mean,8.74,SD; IQR,NA,μg/m³,mean,8.74,Low (≤25 — meets AQG/IT-4)
+Raqib_2023_8137,Daily average,Black Carbon,"Black Carbon (baseline, pre-intervention)",Not specified,μg/m³,Mean,7.36,SD,3.07,μg/m³,mean,7.36,No WHO 24-hr guideline available
+Chi_2019_2521,Daily average,PM2.5,"PM2.5,os",Indoor,μg/m³,Mean,44.9,IQR,45.3,μg/m³,mean,44.9,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Levanon_2023_1037,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,39.3,SD,15.6,μg/m³,mean,39.3,Low (≤50 — meets AQG/IT-4)
+Kogevinas_2023_1989,Daily average,O3,O₃,Outdoor,μg/m³,Mean,64.2,SD,6.6,μg/m³,mean,64.2,No WHO 24-hr guideline available
+Wei_2023_4322,Daily average,PM2.5,PM2.5 1-yr,Outdoor,μg/m³,Mean,50.56,SD 15.27,NA,μg/m³,mean,50.56,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Wu_2021_5619,Daily average,Black Carbon,Element Carbon,Outdoor,μg/m³,Mean,1.23,SD,0.75,μg/m³,mean,1.23,No WHO 24-hr guideline available
+Areal_2023_6827,Daily average,O3,O3,Outdoor,μg/m³,Mean,53.54,SD,10.6,μg/m³,mean,53.54,No WHO 24-hr guideline available
+Huang_2021_4400,Daily average,Nitrate (NO3-),Nitrate,Outdoor,μg/m³,Mean,4.4,SD,3.3,μg/m³,mean,4.4,No WHO 24-hr guideline available
+Zhang_2021_1191,Daily average,PM2.5,PM 2.5 (indoor non heating season),Indoor,μg/m³,Mean,58.6,NA,NA,μg/m³,mean,58.6,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Wang_2022_c438,Daily average,PM10,PM10,Not specified,μg/m³,Mean,70.97,SD,20.72,μg/m³,mean,70.97,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhang_2021_1637,Daily average,NO2,NO2,Outdoor,μg/m³,Mean,57.12,SD,25.65,μg/m³,mean,57.12,Moderate (25.1–120 — meets IT-1)
+Ho_2024_940-4,Daily average,PM10,PM10,Not specified,μg/m³,Mean,61.56,SD,16.81,μg/m³,mean,61.56,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhang_2024_2548,Daily average,Nitrate (NO3-),NO₃⁻,Outdoor,μg/m³,Mean,11.49,SD,5.85,μg/m³,mean,11.49,No WHO 24-hr guideline available
+Yang_2021_1085,Daily average,O3,O3,Outdoor,μg/m³,Mean,69.08,SD,19.09,μg/m³,mean,69.08,No WHO 24-hr guideline available
+Hautekiet_2021_6332,Daily average,NO2,"NO₂ (recent, week)",Outdoor,μg/m³,Mean,24.1,IQR,NA,μg/m³,mean,24.1,Low (≤25 — meets AQG)
+Yue Guo_2021_9063,Daily average,PM0.5,PM0.5,Not specified,μg/m³,Mean,53.2,SD,25.5,μg/m³,mean,53.2,No WHO 24-hr guideline available
+Chen_2021_6329,Daily average,PM10,PM10(CRD group),Not specified,μg/m³,Mean,52.9,SD,NA,μg/m³,mean,52.9,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+La Marca_2020_a214,Daily average,NO2,NO2,Outdoor,μg/m³,Mean,22.6,SD,5.8,μg/m³,mean,22.6,Low (≤25 — meets AQG)
+Carandina_2024_9783,Daily average,VOCs,VOCs,Indoor,μg/m³,Mean,795,SD,395,μg/m³,mean,795,No WHO 24-hr guideline available
+Zhou_2019_.039,Daily average,SO2,SO2 (entire pregnancy),Outdoor,μg/m³,Mean,50.11,SD,7.27,μg/m³,mean,50.11,Moderate (40.1–125 — meets IT-1)
+Zhang_2019_8687,Daily average,SO2,SO2 (before games),Outdoor,μg/m³,Mean,31.5,SD,18.1,μg/m³,mean,31.5,Low (≤40 — meets AQG)
+Zhao_2024_3435,Daily average,PM10,PM10,Outdoor,μg/m³,Mean,64.8,SD,7.94,μg/m³,mean,64.8,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhang_2024_1897,Daily average,Black Carbon,BC,Outdoor,μg/m³,Mean,0.52,SD,0.22,μg/m³,mean,0.52,No WHO 24-hr guideline available
+Li_2024_2688,Daily average,O3,O3,Outdoor,μg/m³,Mean,92.6,SD,10.5,μg/m³,mean,92.6,No WHO 24-hr guideline available
+Zu_2024_0104,Daily average,PM1,PM1 (Second trimester),Outdoor,μg/m³,Mean,33.29,SD,8.21,μg/m³,mean,33.29,No WHO 24-hr guideline available
+Romero-Gutierrez_2024_7505,Daily average,Black Carbon,Black Carbon,Indoor,μg/m³,Mean,0.61,SD; IQR,NA,μg/m³,mean,0.61,No WHO 24-hr guideline available
+Raqib_2023_8137,Daily average,Black Carbon,Black Carbon (post-intervention),Not specified,μg/m³,Mean,6.27,SD,4.53,μg/m³,mean,6.27,No WHO 24-hr guideline available
+Levanon_2023_1037,Daily average,PM2.5,PM 2.5,Outdoor,μg/m³,Mean,19.9,SD,8.37,μg/m³,mean,19.9,Low (≤25 — meets AQG/IT-4)
+Kogevinas_2023_1989,Daily average,NO2,NO₂,Outdoor,μg/m³,Mean,35.1,SD,8.9,μg/m³,mean,35.1,Moderate (25.1–120 — meets IT-1)
+Wei_2023_4322,Daily average,PM2.5,PM2.5 3-yr,Outdoor,μg/m³,Mean,54.08,SD 16.92,NA,μg/m³,mean,54.08,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Wu_2021_5619,Daily average,Nitrate (NO3-),NO₃⁻,Outdoor,μg/m³,Mean,10.84,SD,8.47,μg/m³,mean,10.84,No WHO 24-hr guideline available
+Huang_2021_4400,Daily average,Sulfate (SO4 2-),Sulfate,Outdoor,μg/m³,Mean,9.4,SD,4.8,μg/m³,mean,9.4,No WHO 24-hr guideline available
+Zhang_2021_1637,Daily average,SO2,SO2,Outdoor,μg/m³,Mean,26.62,SD,27.47,μg/m³,mean,26.62,Low (≤40 — meets AQG)
+Ho_2024_940-4,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,38.95,SD,9.65,μg/m³,mean,38.95,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zhang_2024_2548,Daily average,Ammonium (NH4+),NH₄⁺,Outdoor,μg/m³,Mean,8.01,SD,3.59,μg/m³,mean,8.01,No WHO 24-hr guideline available
+Yang_2021_1085,Daily average,NO2,NO2,Outdoor,μg/m³,Mean,39.49,SD,7.06,μg/m³,mean,39.49,Moderate (25.1–120 — meets IT-1)
+Hautekiet_2021_6332,Daily average,PM2.5,"PM2.5 (sub‑chronic, month)",Outdoor,μg/m³,Mean,13.6,IQR,NA,μg/m³,mean,13.6,Low (≤25 — meets AQG/IT-4)
+Yue Guo_2021_9063,Daily average,PM0.2,PM0.2,Not specified,μg/m³,Mean,9.9,SD,5,μg/m³,mean,9.9,No WHO 24-hr guideline available
+Chen_2021_6329,Daily average,PM1,PM1.0 (non‑CRD group),Not specified,μg/m³,Mean,25.2,SD,NA,μg/m³,mean,25.2,No WHO 24-hr guideline available
+Zhang_2019_8687,Daily average,SO2,SO2 (during games),Outdoor,μg/m³,Mean,30.6,SD,15.1,μg/m³,mean,30.6,Low (≤40 — meets AQG)
+Zhao_2024_3435,Daily average,O3,O3,Outdoor,μg/m³,Mean,35.1,SD,19.2,μg/m³,mean,35.1,No WHO 24-hr guideline available
+Zhang_2024_1897,Daily average,PM2.5,PM2.5,Indoor,μg/m³,Mean,8.6,SD,6.6,μg/m³,mean,8.6,Low (≤25 — meets AQG/IT-4)
+Zu_2024_0104,Daily average,PM2.5,PM2.5 (Second trimester),Outdoor,μg/m³,Mean,59.42,SD,16.72,μg/m³,mean,59.42,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Romero-Gutierrez_2024_7505,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,6.18,SD; IQR,NA,μg/m³,mean,6.18,Low (≤25 — meets AQG/IT-4)
+Raqib_2023_8137,Daily average,CO,"Carbon Monoxide (baseline, pre-intervention)",Not specified,μg/m³,Mean,1.02,SD,0.52,μg/m³,mean,1.02,Low (≤4000 — meets AQG)
+Wei_2023_4322,Daily average,PM2.5,PM2.5 5-yr,Outdoor,μg/m³,Mean,59.79,SD 17.88,NA,μg/m³,mean,59.79,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Wu_2021_5619,Daily average,Ammonium (NH4+),NH₄⁺,Outdoor,μg/m³,Mean,5.31,SD,3.42,μg/m³,mean,5.31,No WHO 24-hr guideline available
+Huang_2021_4400,Daily average,Organic Carbon,Organic Carbon,Outdoor,μg/m³,Mean,8.2,SD,3.7,μg/m³,mean,8.2,No WHO 24-hr guideline available
+Zhang_2024_2548,Daily average,Organic Matter (OM),OM,Outdoor,μg/m³,Mean,12.78,SD,4.85,μg/m³,mean,12.78,No WHO 24-hr guideline available
+Yang_2021_1085,Daily average,CO,CO,Outdoor,μg/m³,Mean,0.66,SD,0.09,μg/m³,mean,0.66,Low (≤4000 — meets AQG)
+Hautekiet_2021_6332,Daily average,Black Carbon,"BC (sub‑chronic, month)",Outdoor,μg/m³,Mean,1.4,IQR,NA,μg/m³,mean,1.4,No WHO 24-hr guideline available
+Chen_2021_6329,Daily average,PM2.5,PM2.5 (non‑CRD group),Not specified,μg/m³,Mean,43.9,SD,NA,μg/m³,mean,43.9,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zhang_2019_8687,Daily average,PM10,PM10 (before games),Outdoor,μg/m³,Mean,63.9,SD,31.5,μg/m³,mean,63.9,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhao_2024_3435,Daily average,O3,O3,Outdoor,μg/m³,Mean,53.5,SD,6.1,μg/m³,mean,53.5,No WHO 24-hr guideline available
+Zhang_2024_1897,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,4.2,SD,2,μg/m³,mean,4.2,Low (≤25 — meets AQG/IT-4)
+Zu_2024_0104,Daily average,PM10,PM10 (Second trimester),Outdoor,μg/m³,Mean,92.72,SD,17.33,μg/m³,mean,92.72,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Romero-Gutierrez_2024_7505,Daily average,Black Carbon,Black Carbon,Outdoor,μg/m³,Mean,0.52,SD; IQR,NA,μg/m³,mean,0.52,No WHO 24-hr guideline available
+Raqib_2023_8137,Daily average,CO,Carbon Monoxide (post-intervention),Not specified,μg/m³,Mean,0.25,SD,0.42,μg/m³,mean,0.25,Low (≤4000 — meets AQG)
+Wu_2021_5619,Daily average,Sulfate (SO4 2-),SO₄²⁻,Outdoor,μg/m³,Mean,5.98,SD,2.65,μg/m³,mean,5.98,No WHO 24-hr guideline available
+Huang_2021_4400,Daily average,Black Carbon,Elemental Carbon,Outdoor,μg/m³,Mean,2.1,SD,0.9,μg/m³,mean,2.1,No WHO 24-hr guideline available
+Zhang_2024_2548,Daily average,Black Carbon,BC,Outdoor,μg/m³,Mean,2.55,SD,0.82,μg/m³,mean,2.55,No WHO 24-hr guideline available
+Yang_2021_1085,Daily average,SO2,SO2,Outdoor,μg/m³,Mean,6.21,SD,1.85,μg/m³,mean,6.21,Low (≤40 — meets AQG)
+Hautekiet_2021_6332,Daily average,NO2,"NO₂ (sub‑chronic, month)",Outdoor,μg/m³,Mean,21.5,IQR,NA,μg/m³,mean,21.5,Low (≤25 — meets AQG)
+Yue Guo_2021_9063,Daily average,Chloride (Cl-),Cl⁻,Not specified,μg/m³,Mean,0.6,SD,0.4,μg/m³,mean,0.6,No WHO 24-hr guideline available
+Chen_2021_6329,Daily average,PM10,PM10 (non‑CRD group),Not specified,μg/m³,Mean,53.1,SD,NA,μg/m³,mean,53.1,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhang_2019_8687,Daily average,PM10,PM10 (during games),Outdoor,μg/m³,Mean,62.6,SD,14.4,μg/m³,mean,62.6,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zhao_2024_3435,Daily average,NO2,NO2,Outdoor,μg/m³,Mean,44.6,SD,16.2,μg/m³,mean,44.6,Moderate (25.1–120 — meets IT-1)
+Zhang_2024_1897,Daily average,PM2.5,PM2.5,Not specified,μg/m³,Mean,4.2,SD,5.8,μg/m³,mean,4.2,Low (≤25 — meets AQG/IT-4)
+Zu_2024_0104,Daily average,PM1,PM1 (Third trimester),Outdoor,μg/m³,Mean,31.41,SD,7.39,μg/m³,mean,31.41,No WHO 24-hr guideline available
+Wu_2021_5619,Daily average,Sodium (Na+),Na⁺,Outdoor,μg/m³,Mean,0.08,SD,0.05,μg/m³,mean,0.08,No WHO 24-hr guideline available
+Hautekiet_2021_6332,Daily average,PM2.5,"PM2.5 (chronic, year)",Outdoor,μg/m³,Mean,14.6,IQR,NA,μg/m³,mean,14.6,Low (≤25 — meets AQG/IT-4)
+Chen_2021_6329,Daily average,PM2.5,"PM2.5 (ambient, fixed‑site)",Outdoor,μg/m³,Mean,40.1,SD,NA,μg/m³,mean,40.1,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Zhao_2024_3435,Daily average,NO2,NO2,Outdoor,μg/m³,Mean,30.6,SD,9.28,μg/m³,mean,30.6,Moderate (25.1–120 — meets IT-1)
+Zhang_2024_1897,Daily average,PM2.5,PM2.5,Outdoor,μg/m³,Mean,6.1,SD,2.1,μg/m³,mean,6.1,Low (≤25 — meets AQG/IT-4)
+Zu_2024_0104,Daily average,PM2.5,PM2.5 (Third trimester),Outdoor,μg/m³,Mean,55.68,SD,15,μg/m³,mean,55.68,Moderate (25.1–75 — meets IT-3/IT-2/IT-1)
+Wu_2021_5619,Daily average,Potassium (K+),K⁺,Outdoor,μg/m³,Mean,0.14,SD,0.12,μg/m³,mean,0.14,No WHO 24-hr guideline available
+Hautekiet_2021_6332,Daily average,Black Carbon,"BC (chronic, year)",Outdoor,μg/m³,Mean,1.5,IQR,NA,μg/m³,mean,1.5,No WHO 24-hr guideline available
+Chen_2021_6329,Daily average,PM10,"PM10 (ambient, fixed‑site)",Outdoor,μg/m³,Mean,57.3,SD,NA,μg/m³,mean,57.3,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Zu_2024_0104,Daily average,PM10,PM10 (Third trimester),Outdoor,μg/m³,Mean,88.47,SD,15.52,μg/m³,mean,88.47,Moderate (50.1–150 — meets IT-3/IT-2/IT-1)
+Wu_2021_5619,Daily average,Calcium (Ca2+),Ca²⁺,Outdoor,μg/m³,Mean,0.22,SD,0.15,μg/m³,mean,0.22,No WHO 24-hr guideline available
+Hautekiet_2021_6332,Daily average,NO2,"NO₂ (chronic, year)",Outdoor,μg/m³,Mean,20.7,IQR,NA,μg/m³,mean,20.7,Low (≤25 — meets AQG)
+Chen_2021_6329,Daily average,SO2,"SO₂ (ambient, fixed‑site)",Outdoor,μg/m³,Mean,11.2,SD,NA,μg/m³,mean,11.2,Low (≤40 — meets AQG)
+Wu_2021_5619,Daily average,Chloride (Cl-),Cl⁻,Outdoor,μg/m³,Mean,0.59,SD,0.34,μg/m³,mean,0.59,No WHO 24-hr guideline available
+Chen_2021_6329,Daily average,NO2,"NO₂ (ambient, fixed‑site)",Outdoor,μg/m³,Mean,46.9,SD,NA,μg/m³,mean,46.9,Moderate (25.1–120 — meets IT-1)
+Zhao_2024_3435,Daily average,SO2,SO2,Outdoor,μg/m³,Mean,10.9,SD,5.92,μg/m³,mean,10.9,Low (≤40 — meets AQG)
+Wu_2021_5619,Daily average,Magnesium (Mg2+),Mg²⁺,Outdoor,μg/m³,Mean,0.02,SD,0.02,μg/m³,mean,0.02,No WHO 24-hr guideline available
+Chen_2021_6329,Daily average,O3,"O₃ (ambient, fixed‑site)",Outdoor,μg/m³,Mean,68.6,SD,NA,μg/m³,mean,68.6,No WHO 24-hr guideline available
+Zhao_2024_3435,Daily average,SO2,SO2,Outdoor,μg/m³,Mean,5.39,SD,1.1,μg/m³,mean,5.39,Low (≤40 — meets AQG)
+Wu_2021_5619,Daily average,Barium (Ba),Ba,Outdoor,μg/m³,Mean,29,SD,14,μg/m³,mean,29,No WHO 24-hr guideline available
+Wu_2021_5619,Daily average,Chromium (Cr),Cr,Outdoor,μg/m³,Mean,7,SD,4,μg/m³,mean,7,No WHO 24-hr guideline available
+Wu_2021_5619,Daily average,Iron (Fe),Fe,Outdoor,μg/m³,Mean,499,SD,232,μg/m³,mean,499,No WHO 24-hr guideline available
+Wu_2021_5619,Daily average,Zinc (Zn),Zn,Outdoor,μg/m³,Mean,128,SD,76,μg/m³,mean,128,No WHO 24-hr guideline available
+Zhao_2024_3435,Daily average,CO,CO,Outdoor,mg/m³,Mean,0.94,SD,0.34,mg/m³,mean,940,Low (≤4000 — meets AQG)
+Zhao_2024_3435,Daily average,CO,CO,Outdoor,mg/m³,Mean,0.66,SD,0.02,mg/m³,mean,660,Low (≤4000 — meets AQG)
+Chen_2021_6329,Daily average,CO,"CO (ambient, fixed‑site)",Outdoor,mg/m³,Mean,0.9,SD,NA,mg/m³,mean,900,Low (≤4000 — meets AQG)
